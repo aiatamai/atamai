@@ -19,6 +19,8 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">Important News</h3>
 
+- **[ Nov 21, 2019 ]** Vincenzo Lomonaco will be giving a talk on "Toward Continual Learning on the Edge" at Apple Inc., Cupertino, CA.
+
 - **[ Nov 15, 2019 ]** We are excited to be sponsoring the [1st workshop on Continual Learning in Computer Vision (CLVISION)](https://sites.google.com/view/clvision2020) which will be hosted at CVPR 2020 in Seattle, WA.
 
 - **[ May 31, 2019 ]** Natalia, one of our board members, will give a invited talk at the [Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl/home) at ICML 2019!
