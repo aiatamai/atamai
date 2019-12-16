@@ -22,8 +22,6 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 - **[ Nov 15, 2019 ]** We are excited to be sponsoring the [1st workshop on Continual Learning in Computer Vision (CLVISION)](https://sites.google.com/view/clvision2020) which will be hosted at CVPR 2020 in Seattle, WA.
 
-- **[ Jun 14, 2020 ]** [1st workshop on Continual Learning in Computer Vision (CLVISION) at CVPR 2020](https://sites.google.com/view/clvision2020)
-
 - **[ May 31, 2019 ]** Natalia, one of our board members, will give a invited talk at the [Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl/home) at ICML 2019!
 
 - **[ April 16, 2019 ]** Vincenzo Lomonaco and German I. Parisi, two of our board members, will give a tutorial on [Continual Learning with Neural Networks](https://docs.google.com/presentation/d/1Ukatz11S8sjC40VH293uY91rC3wQLPxiT0R-lOpju7k/edit?usp=sharing) at the INNS Big Data and Deep Learning Conference in Sestri Levante, Italy.
