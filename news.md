@@ -16,7 +16,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 </div>
 
 <a name="news"></a>
-<h3 id="news" style="margin-bottom: 30px;">Important News</h3>
+<h3 id="news" style="margin-bottom: 30px;">News & Events</h3>
 
 - **[ Nov 21, 2019 ]** Vincenzo Lomonaco will be giving a talk on [Toward Continual Learning on the Edge](https://docs.google.com/presentation/d/1xs8j7pBuJatj7EfbuV3e1lMC1Zgj0hbWNFbDhwME8w4/edit?usp=sharing) at Apple Inc., Cupertino, CA.
 
