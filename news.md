@@ -8,24 +8,25 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
-		<a href="#news">1. Important News</a><br>
+		<a href="#news">1. News & Events</a><br>
 		<a href="#mailinglist">2. Mailing List</a><br>
 		<!--<a href="#newsletter">3. Monthly Newsletter</a><br>-->
 		<a href="#medium">3. Medium Publication</a><br>
-		<a href="#events">4. Events</a><br>
 	</p>
 </div>
 
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">Important News</h3>
 
-- **[ Nov 21, 2019 ]** Vincenzo Lomonaco will be giving a talk on "Toward Continual Learning on the Edge" at Apple Inc., Cupertino, CA.
+- **[ Nov 21, 2019 ]** Vincenzo Lomonaco will be giving a talk on [Toward Continual Learning on the Edge](https://docs.google.com/presentation/d/1xs8j7pBuJatj7EfbuV3e1lMC1Zgj0hbWNFbDhwME8w4/edit?usp=sharing) at Apple Inc., Cupertino, CA.
 
 - **[ Nov 15, 2019 ]** We are excited to be sponsoring the [1st workshop on Continual Learning in Computer Vision (CLVISION)](https://sites.google.com/view/clvision2020) which will be hosted at CVPR 2020 in Seattle, WA.
 
+- **[ Jun 14, 2020 ]** [1st workshop on Continual Learning in Computer Vision (CLVISION) at CVPR 2020](https://sites.google.com/view/clvision2020)
+
 - **[ May 31, 2019 ]** Natalia, one of our board members, will give a invited talk at the [Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl/home) at ICML 2019!
 
-- **[ April 16, 2019 ]** Vincenzo Lomonaco and German I. Parisi, two of our board members, will give a tutorial on Continual Learning with Neural Networks at the INNS Big Data and Deep Learning Conference in Sestri Levante, Italy.
+- **[ April 16, 2019 ]** Vincenzo Lomonaco and German I. Parisi, two of our board members, will give a tutorial on [Continual Learning with Neural Networks](https://docs.google.com/presentation/d/1Ukatz11S8sjC40VH293uY91rC3wQLPxiT0R-lOpju7k/edit?usp=sharing) at the INNS Big Data and Deep Learning Conference in Sestri Levante, Italy.
 
 - **[ Aug 11, 2018 ]** It's official! There will be a [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
 
@@ -43,11 +44,5 @@ The **ContinualAI Monthly Newsletter** is not started yet, but we are working on
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
 
-The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains blog posts on the topic of Continual Learning. Publication is open to both ContinualAI members and outsiders. If you want to share your personal thoughts on Continual Learning, please consider this venue and send us an email at [media@continualai.org]()!
+The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains blog posts on the topic of Continual Learning. The publication is open to both ContinualAI members and outsiders. If you want to share your personal thoughts on Continual Learning, please consider this venue and send us an email at [media@continualai.org]()!
 
-<a name="events"></a>
-<h3 id="events" style="margin-bottom: 30px;">Events</h3>
-
-In this section we list all the **ContinualAI** organized, co-organized or sponsored events:
-
-- **[ Jun 14, 2020 ]** [1st workshop on Continual Learning in Computer Vision (CLVISION) at CVPR 2020](https://sites.google.com/view/clvision2020)
