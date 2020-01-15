@@ -1,5 +1,5 @@
 ---
-title:  "Research"
+title:  "ContinualAI Research"
 layout: page
 ---
 
@@ -16,21 +16,38 @@ layout: page
 <a name="mission"></a>
 <h3 id="mission" style="margin-bottom:30px">Mission</h3>
 
-We’re very excited to announce the establishment of ContinualAI Research (CLAIR), a collaborative laboratory endorsed by ContinualAI and with the goal to advance the state of the art in Continual Learning (CL) for AI. We will investigate learning in humans and animals and develop novel approaches for continually learning systems, embodied agents, and robots.
+We’re very excited to announce the establishment of **ContinualAI Research (CLAIR)**, a collaborative laboratory endorsed by ContinualAI and with the goal to advance the state of the art in Continual Learning (CL) for AI. We will investigate learning in humans and animals and develop novel approaches for continually learning systems, embodied agents, and robots.
 <br><br>
 Our core research questions are:
 <br><br>
-i) What are the key principles and mechanisms governing learning and memory in the brain?
+**i)** What are the key principles and mechanisms governing learning and memory in the brain?
 <br><br>
-ii) How do we model artificial CL systems that better capture the flexibility, robustness, and scalability exhibited by the brain?
+**ii)** How do we model artificial CL systems that better capture the flexibility, robustness, and scalability exhibited by the brain?
 <br><br>
-iii) How do we leverage current CL systems to synergically work on embodied agents and robots that interact with the environment?
+**iii)** How do we leverage current CL systems to synergically work on embodied agents and robots that interact with the environment?
 <br><br>
-iv) How can we use CL systems and robots to advance AI responsibly and ethically?
+**iv)** How can we use CL systems and robots to advance AI responsibly and ethically?
 <br><br>
 To answer these questions, we will build a growing set of computational principles and algorithms inspired by key findings in computer science, neuroscience, cognitive science, psychology, and robotics. To foster the interdisciplinary nature of our research approach, we will collaborate with a number of extraordinary researchers and experts in the fields.
 <br><br>
 CLAIR will contribute to a better understanding of CL with neural networks and the application of engineered approaches to embodied agents. We will disseminate our findings through publishing in international conferences and journals on the topics of AI, machine learning, and robotics.
+
+<a name="people"></a>
+<h3 id="people" style="margin-bottom:30px">People</h3>
+
+**Vincenzo Lomonaco**
+<br>
+Co-Director and Chief Scientist
+<br>
+[vincenzo.lomonaco@continualai.org](mailto:vincenzo.lomonaco@continualai.org)
+<br><b>
+
+**German I. Parisi**
+<br>
+Co-Director and Chief Scientist
+<br>
+[german.parisi@continualai.org](mailto:german.parisi@continualai.org)
+<br><b>
 
 <a name="pub"></a>
 <h3 id="papers" style="margin-bottom: 30px;">Publications</h3>
