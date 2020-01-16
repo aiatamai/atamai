@@ -3,34 +3,32 @@ title:  "ContinualAI Research"
 layout: page
 ---
 
+**ContinualAI Research (CLAIR)** is a collaborative laboratory endorsed by _ContinualAI_ and with the goal to advance the state of the art in Continual Learning (CL) for AI. We investigate learning in humans and animals and develop neuroscience-inspired approaches for continually learning systems, embodied agents, and robots.
+
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
-		<a href="#mission">Mission</a><br>
-		<a href="#people">People</a><br>
-		<a href="#pub">Publications</a><br>
-		<a href="#datasets">Datasets</a>
+		<a href="#mission">1. Mission</a><br>
+		<a href="#people">2. People</a><br>
+		<a href="#pub">3. Publications</a><br>
+		<a href="#datasets">4. Datasets</a>
 	</p>
 </div>
 
 <a name="mission"></a>
 <h3 id="mission" style="margin-bottom:30px">Mission</h3>
 
-We’re very excited to announce the establishment of **ContinualAI Research (CLAIR)**, a collaborative laboratory endorsed by ContinualAI and with the goal to advance the state of the art in Continual Learning (CL) for AI. We will investigate learning in humans and animals and develop novel approaches for continually learning systems, embodied agents, and robots.
+<br>
+Our mission is to advance continual learning research by trying to answer the following **core research questions**:
+	
+- _What are the key principles and mechanisms governing learning and memory in the brain?_
+- _How do we model artificial CL systems that better capture the flexibility, robustness, and scalability exhibited by the brain?_
+- _How do we leverage current CL systems to synergically work on embodied agents and robots that interact with the environment?_
+- _How can we use CL systems and robots to advance AI responsibly and ethically?_
+
+To answer these questions, we are building a growing set of _computational principles_ and _algorithms_ inspired by key findings in computer science, neuroscience, cognitive science, psychology, and robotics. To foster the interdisciplinary nature of our research approach, we are collaborating with a number of extraordinary researchers and experts in the fields.
 <br><br>
-Our core research questions are:
-<br><br>
-**i)** What are the key principles and mechanisms governing learning and memory in the brain?
-<br><br>
-**ii)** How do we model artificial CL systems that better capture the flexibility, robustness, and scalability exhibited by the brain?
-<br><br>
-**iii)** How do we leverage current CL systems to synergically work on embodied agents and robots that interact with the environment?
-<br><br>
-**iv)** How can we use CL systems and robots to advance AI responsibly and ethically?
-<br><br>
-To answer these questions, we will build a growing set of computational principles and algorithms inspired by key findings in computer science, neuroscience, cognitive science, psychology, and robotics. To foster the interdisciplinary nature of our research approach, we will collaborate with a number of extraordinary researchers and experts in the fields.
-<br><br>
-CLAIR will contribute to a better understanding of CL with neural networks and the application of engineered approaches to embodied agents. We will disseminate our findings through publishing in international conferences and journals on the topics of AI, machine learning, and robotics.
+CLAIR is contributing to a better understanding of CL with neural networks and the application of engineered approaches to embodied agents. We are disseminating our findings publishing our works in international conferences and journals on the topics of AI, machine learning, and robotics.
 
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
@@ -47,6 +45,20 @@ Co-Director and Chief Scientist
 Co-Director and Chief Scientist
 <br>
 [german.parisi@continualai.org](mailto:german.parisi@continualai.org)
+<br><b>
+
+**Keiland Cooper**
+<br>
+Researcher
+<br>
+[keiland.cooper@continualai.org](mailto:keiland.cooper@continualai.org)
+<br><b>
+
+**Qi She**
+<br>
+Researcher
+<br>
+[qi.she@continualai.org](mailto:qi.she@continualai.org)
 <br><b>
 
 <a name="pub"></a>
