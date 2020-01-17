@@ -1,7 +1,8 @@
 ---
-title:  "ContinualAI Research"
 layout: page
 ---
+
+<div style="text-align:center; margin-bottom:20px; margin-top:-40px"><img style="width:300px" src ='/{{ site.baseurl }}images/continualai_research_logo.png'/></div>
 
 **ContinualAI Research (CLAIR)** is a collaborative laboratory endorsed by _ContinualAI_ and with the goal to advance the state of the art in Continual Learning (CL) for AI. We investigate learning in humans and animals and develop neuroscience-inspired approaches for continually learning systems, embodied agents, and robots.
 
@@ -27,39 +28,61 @@ Our mission is to advance continual learning research by trying to answer the fo
 - _How can we use CL systems and robots to advance AI responsibly and ethically?_
 
 To answer these questions, we are building a growing set of _computational principles_ and _algorithms_ inspired by key findings in computer science, neuroscience, cognitive science, psychology, and robotics. To foster the interdisciplinary nature of our research approach, we are collaborating with a number of extraordinary researchers and experts in the fields.
-<br><br>
+
 CLAIR is contributing to a better understanding of CL with neural networks and the application of engineered approaches to embodied agents. We are disseminating our findings publishing our works in international conferences and journals on the topics of AI, machine learning, and robotics.
 
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
-**Vincenzo Lomonaco**
-<br>
-Co-Director and Chief Scientist
-<br>
-[vincenzo.lomonaco@continualai.org](mailto:vincenzo.lomonaco@continualai.org)
-<br><b>
+<hr style="margin-top:40px;margin-bottom:20px;width:100%">
 
-**German I. Parisi**
-<br>
-Co-Director and Chief Scientist
-<br>
-[german.parisi@continualai.org](mailto:german.parisi@continualai.org)
-<br><b>
+<div>
+	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="https://www.vincenzolomonaco.com/">Vincenzo Lomonaco</a></strong><br>
+		Co-Director and Chief Scientist<br>
+		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
+		 <a href="mailto:vincenzo.lomonaco@continualai.org">vincenzo.lomonaco@continualai.org</a><br>
+	</p>
+</div>
 
-**Keiland Cooper**
-<br>
-Researcher
-<br>
-[keiland.cooper@continualai.org](mailto:keiland.cooper@continualai.org)
-<br><b>
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
-**Qi She**
-<br>
-Researcher
-<br>
-[qi.she@continualai.org](mailto:qi.she@continualai.org)
-<br><b>
+<div>
+	<img src="/{{ site.baseurl }}images/parisi.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="https://sites.google.com/view/giparisi/home">German I. Parisi</a></strong><br>
+		Co-Director and Chief Scientist<br>
+		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
+		 <a href="mailto:vincenzo.lomonaco@continualai.org">german.parisi@continualai.org</a><br>
+	</p>
+</div>
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src="/{{ site.baseurl }}images/keiland.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="https://www.kwcooper.xyz">Keiland Cooper</a></strong><br>
+		Research Scientist<br>
+		<em>Neuroscience-inspired AI, Continual Learing</em><br>
+		<a href="mailto:keiland.cooper@continualai.org">keiland.cooper@continualai.org</a><br>
+	</p>
+</div>
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src="/{{ site.baseurl }}images/she.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="http://sheqi.mystrikingly.com">Qi She</a></strong><br>
+		Research Scientist<br>
+		<em>Continual Learing, Robotics</em><br>
+		<a href="mailto:qi.she@continualai.org">qi.she@continualai.org</a><br>
+	</p>
+</div>
+
+<hr style="margin-top:20px;margin-bottom:40px;width:100%">
 
 <a name="pub"></a>
 <h3 id="papers" style="margin-bottom: 30px;">Publications</h3>
@@ -108,3 +131,13 @@ Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2017) [Lifelong Learning of Huma
 	</p>
 </div>
 <hr style="margin-top:30px;margin-bottom:20px;width:100%"> -->
+
+
+<a name="datasets"></a>
+<h3 id="datasets" style="margin-bottom:30px">Datasets</h3>
+
+Here we list the datasets released by the lab and its members:
+
+- [CORe50](https://vlomonaco.github.io/core50/): A new Dataset and Benchmark for Continual Learning and Object Recognition, Detection, Segmentation.
+- [OpenLORIS](https://lifelong-robotic-vision.github.io/dataset/Data_Object-Recognition): A Dataset and Benchmark towards Lifelong Object Recognition.
+
