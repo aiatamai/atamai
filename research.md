@@ -65,7 +65,7 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 	<p>
 		<strong><a href="https://www.kwcooper.xyz">Keiland Cooper</a></strong><br>
 		Research Scientist<br>
-		<em>Neuroscience-inspired AI, Continual Learing</em><br>
+		<em>Neuroscience, Neuroscience-inspired AI, Continual Learing</em><br>
 		<a href="mailto:keiland.cooper@continualai.org">keiland.cooper@continualai.org</a><br>
 	</p>
 </div>
