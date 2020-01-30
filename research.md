@@ -93,6 +93,10 @@ Lomonaco, V., Maltoni, D., Pellegrini, L. (2019) [Fine-Grained Continual Learnin
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
+Parisi, G.I. and Kanan, C. (2019) [Rethinking Continual Learning for Autonomous Agents and Robots](https://arxiv.org/pdf/1907.01929). arXiv:1907.01929.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
 Maltoni, D., Lomonaco, V. (2019) [Continuous Learning in Single-Incremental-Task Scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0893608019300838). Neural Networks, 116:56-73.
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
