@@ -14,8 +14,9 @@ We are always happy to add new members and get some help for improving our wiki 
 		<a href="#advisors">2. Advisors</a><br>
 		<!--<a href="#top_contributors">3. Top Contributors</a><br>-->
 		<!--<a href="#members">3. Members</a><br>-->
-		<a href="#docs"> 3. Documents </a><br>
-		<a href="#contacts">4. Contacts and Links</a>
+		<a href="#map"> 3. Map </a><br>
+		<a href="#docs"> 4. Documents </a><br>
+		<a href="#contacts">5. Contacts and Links</a>
 	</p>
 </div>
 
