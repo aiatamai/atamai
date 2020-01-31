@@ -135,6 +135,13 @@ We are always happy to add new members and get some help for improving our wiki 
  - ...
 -->
 
+<a href="#map"></a>
+<h3 style="margin-bottom:30px;" id="docs">Worldwide Effort</h3>
+
+ContinualAI is a worldwide effort with members spanning 6/7 continents (We're waiting for arctic AI to begin!). Here are our first 300 members:  
+<div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/CAI_mapv2.png'/></div>
+
+
 <a href="#docs"></a>
 <h3 style="margin-bottom:30px;" id="docs">Documents</h3>
 
