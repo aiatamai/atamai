@@ -82,12 +82,40 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 	</p>
 </div>
 
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src="/{{ site.baseurl }}images/jeremy.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="https://jeremyforest.github.io/">Jeremy Forest</a></strong><br>
+		Research Scientist<br>
+		<em>Neuroscience, Neuroscience-inspired AI, Continual Learing</em><br>
+		<a href="mailto:jeremy.forest@continualai.org">jeremy.forest@continualai.org</a><br>
+	</p>
+</div>
+
+
 <hr style="margin-top:20px;margin-bottom:40px;width:100%">
 
 <a name="pub"></a>
 <h3 id="papers" style="margin-bottom: 30px;">Publications</h3>
 
 <hr style="margin-top:40px;margin-bottom:20px;width:100%">
+
+She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., Guo, Y., Zhang, Y. and Qiao, F., (2020). [OpenLORIS-Object: A Dataset and Benchmark towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487).  International Conference on Robotics and Automation (ICRA).
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Lesort, T., Lomonaco, V., Stoian, A., Maltoni, D., Filliat, D., & Díaz-Rodríguez, N. (2020). [Continual learning for robotics: Definition, framework, learning strategies, opportunities and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1566253519307377). Information Fusion Journal, 58, 52-68.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+Pomponi, J., Scardapane, S., Lomonaco, V., & Uncini, A. (2020). [Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742). Neurocomputing Journal.
+
+<hr style="margin-top:40px;margin-bottom:20px;width:100%">
+
+Pellegrini, L., Graffieti, G., Lomonaco, V., & Maltoni, D. (2019). [Latent Replay for Real-Time Continual Learning](https://arxiv.org/abs/1912.01100). arXiv preprint arXiv:1912.01100..
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
 Lomonaco, V., Maltoni, D., Pellegrini, L. (2019) [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf). arXiv:1907.03799.
 
@@ -109,19 +137,27 @@ Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2018) [Lifelong Learning of Spat
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
-Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forget, there is more than forgetting: new metrics for Continual Learning](https://arxiv.org/abs/1810.13166). Continual Learning Workshop at NeurIPS 2018, Montreal, Canada.
+Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forget, there is more than forgetting: new metrics for Continual Learning](https://arxiv.org/abs/1810.13166). Continual Learning Workshop at NeurIPS, Montreal, Canada.
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
-Parisi, G.I., Ji, X., Wermter, S. (2018) [On the role of neurogenesis in overcoming catastrophic forgetting](https://marcpickett.com/cl2018/CL-2018_paper_31.pdf). Continual Learning Workshop at NeurIPS 2018., Montreal, Canada [arXiv:1811.02113]
+Parisi, G.I., Ji, X., Wermter, S. (2018) [On the role of neurogenesis in overcoming catastrophic forgetting](https://marcpickett.com/cl2018/CL-2018_paper_31.pdf). Continual Learning Workshop at NeurIPS., Montreal, Canada [arXiv:1811.02113]
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
-Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26
+Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26.
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
 Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2017) [Lifelong Learning of Human Actions with Deep Neural Network Self-Organization](http://www.sciencedirect.com/science/article/pii/S0893608017302034). Neural Networks 96:137-149.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Maltoni, D., & Lomonaco, V. (2016) [Semi-supervised Tuning from Temporal Coherence](https://arxiv.org/abs/1511.03163). 23rd International Conference on Pattern Recognition (ICPR).
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Lomonaco, V., & Maltoni, D. (2016). [Comparing incremental learning strategies for convolutional neural networks](https://link.springer.com/chapter/10.1007/978-3-319-46182-3_15). In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 175-184). Springer.
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
