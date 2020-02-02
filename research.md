@@ -111,7 +111,7 @@ Lesort, T., Lomonaco, V., Stoian, A., Maltoni, D., Filliat, D., & Díaz-Rodrígu
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
 Pomponi, J., Scardapane, S., Lomonaco, V., & Uncini, A. (2020). [Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742). Neurocomputing Journal.
 
-<hr style="margin-top:40px;margin-bottom:20px;width:100%">
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
 Pellegrini, L., Graffieti, G., Lomonaco, V., & Maltoni, D. (2019). [Latent Replay for Real-Time Continual Learning](https://arxiv.org/abs/1912.01100). arXiv preprint arXiv:1912.01100..
 
