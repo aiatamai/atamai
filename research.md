@@ -46,8 +46,6 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 	</p>
 </div>
 
-<hr style="margin-top:20px;margin-bottom:20px;width:100%">
-
 <div>
 	<img src="/{{ site.baseurl }}images/parisi.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
 	<p>
@@ -57,8 +55,6 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">german.parisi@continualai.org</a><br>
 	</p>
 </div>
-
-<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
 <div>
 	<img src="/{{ site.baseurl }}images/keiland.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
@@ -70,8 +66,6 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 	</p>
 </div>
 
-<hr style="margin-top:20px;margin-bottom:20px;width:100%">
-
 <div>
 	<img src="/{{ site.baseurl }}images/she.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
 	<p>
@@ -81,8 +75,6 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 		<a href="mailto:qi.she@continualai.org">qi.she@continualai.org</a><br>
 	</p>
 </div>
-
-<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 
 <div>
 	<img src="/{{ site.baseurl }}images/jeremy.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
