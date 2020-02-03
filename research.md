@@ -94,62 +94,33 @@ CLAIR is contributing to a better understanding of CL with neural networks and t
 
 <hr style="margin-top:40px;margin-bottom:20px;width:100%">
 
-She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., Guo, Y., Zhang, Y. and Qiao, F., (2020). [OpenLORIS-Object: A Dataset and Benchmark towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487).  International Conference on Robotics and Automation (ICRA). To Appear.
-
-<br>
+She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., Guo, Y., Zhang, Y. and Qiao, F., (2020). [OpenLORIS-Object: A Dataset and Benchmark towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487).  International Conference on Robotics and Automation (ICRA'20). To Appear.
 
 Lesort, T., Lomonaco, V., Stoian, A., Maltoni, D., Filliat, D., & Díaz-Rodríguez, N. (2020). [Continual learning for robotics: Definition, framework, learning strategies, opportunities and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1566253519307377). Information Fusion Journal, 58:52-68.
 
-<br>
-
-<hr style="margin-top:20px;margin-bottom:20px;width:100%">
 Pomponi, J., Scardapane, S., Lomonaco, V., & Uncini, A. (2020). [Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742). Neurocomputing. To Appear.
-
-<br>
 
 Pellegrini, L., Graffieti, G., Lomonaco, V., & Maltoni, D. (2019). [Latent Replay for Real-Time Continual Learning](https://arxiv.org/abs/1912.01100). arXiv preprint arXiv:1912.01100.
 
-<br>
-
 Lomonaco, V., Maltoni, D., Pellegrini, L. (2019) [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf). arXiv preprint arXiv:1907.03799.
-
-<br>
 
 Parisi, G.I. and Kanan, C. (2019) [Rethinking Continual Learning for Autonomous Agents and Robots](https://arxiv.org/pdf/1907.01929). arXiv preprint arXiv:1907.01929.
 
-<br>
-
 Maltoni, D., Lomonaco, V. (2019) [Continuous Learning in Single-Incremental-Task Scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0893608019300838). Neural Networks, 116:56-73.
-
-<br>
 
 Parisi, G.I., Kemker, R., Part, J.L., Kanan, C., Wermter, S. (2019) [Continual Lifelong Learning with Neural Networks: A Review](https://www.sciencedirect.com/science/article/pii/S0893608019300231). Neural Networks 113:54-71 [arXiv:1802.07569]
 
-<br>
-
 Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2018) [Lifelong Learning of Spatiotemporal Representations with Dual-Memory Recurrent Self-Organization](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00078/full). Frontiers in Neurorobotics, 12:78 [arXiv:1805.10966]
-
-<br>
 
 Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forget, there is more than forgetting: new metrics for Continual Learning](https://arxiv.org/abs/1810.13166). Continual Learning Workshop at NeurIPS, Montreal, Canada.
 
-<br>
-
 Parisi, G.I., Ji, X., Wermter, S. (2018) [On the role of neurogenesis in overcoming catastrophic forgetting](https://marcpickett.com/cl2018/CL-2018_paper_31.pdf). Continual Learning Workshop at NeurIPS., Montreal, Canada [arXiv:1811.02113]
-
-<br>
 
 Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26.
 
-<br>
-
 Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2017) [Lifelong Learning of Human Actions with Deep Neural Network Self-Organization](http://www.sciencedirect.com/science/article/pii/S0893608017302034). Neural Networks 96:137-149.
 
-<br>
-
 Maltoni, D., & Lomonaco, V. (2016) [Semi-supervised Tuning from Temporal Coherence](https://arxiv.org/abs/1511.03163). 23rd International Conference on Pattern Recognition (ICPR).
-
-<br>
 
 Lomonaco, V., & Maltoni, D. (2016). [Comparing incremental learning strategies for convolutional neural networks](https://link.springer.com/chapter/10.1007/978-3-319-46182-3_15). In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 175-184). Springer.
 
