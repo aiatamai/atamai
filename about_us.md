@@ -3,7 +3,7 @@ title:  "About us"
 layout: page
 ---
 
-**ContinualAI** is non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/).
+**ContinualAI** is non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz).
 
 We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)!
 
@@ -26,12 +26,15 @@ We are always happy to add new members and get some help for improving our wiki 
 <div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/contai-board.png'/></div>
 
 
- 1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
- 2. [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, & Neuroscientist @ University of California, Irvine
- 3. [Natalia Díaz Rodríguez](https://nataliadiaz.github.io/) &bull; Co-founder & Board member, Assistant Professor @ ENSTA ParisTech
- 4. [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Co-founder & Board member, Research Associate @ University of Hamburg
- 5. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder & Board member, PhD student @ ENSTA ParisTech and Thales
- 6. [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
+ - [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
+ - [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, & Neuroscientist @ University of California, Irvine
+ - [Natalia Díaz Rodríguez](https://nataliadiaz.github.io/) &bull; Co-founder & Board member, Assistant Professor @ ENSTA ParisTech
+ - [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Co-founder & Board member, Research Associate @ University of Hamburg
+ - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
+
+	<a name="board"></a>
+	<h5 id="board" style="margin-bottom:10px">Previous Board Members</h5>
+ - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder & Previous Board member, PhD student @ ENSTA ParisTech and Thales (March 2019 - Feb 2020)
 
  <!-- Other 6 board members will be elected by democratic means during the first plenary of the organization. -->
 
@@ -139,7 +142,7 @@ We are always happy to add new members and get some help for improving our wiki 
 <a href="#map"></a>
 <h3 style="margin-bottom:30px;" id="docs">Worldwide Effort</h3>
 
-ContinualAI is a worldwide effort with members spanning 6/7 continents (We're waiting for arctic AI to begin!). Here are our first 300 members:  
+ContinualAI is a worldwide effort with members spanning 7 continents in 18 different timezones from top-notch research institutions and companies. Here are our first 300 members:  
 <div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/CAI_mapv2.png'/></div>
 
 
