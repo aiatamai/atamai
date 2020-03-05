@@ -37,23 +37,6 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 
 - <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
 
-<a name="medium"></a>
-<h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
-
-The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains blog posts on the topic of Continual Learning. The publication is open to both ContinualAI members and outsiders. If you want to share your personal thoughts on Continual Learning, please consider this venue and send us an email at [media@continualai.org]()!
-
-Recent stories:
-
-- [Task Label and Continual learning, what is going on?](https://medium.com/continual-ai/task-label-and-continual-learning-what-is-going-on-8f655d7e506)
-- [Continual Learning for Production Systems](https://medium.com/continual-ai/continual-learning-for-production-systems-304cc9f60603)
-- [ContinualAI: a Non-Profit Research Organization on Continual Learning for AI](https://medium.com/continual-ai/continualai-a-non-profit-research-organization-on-continual-learning-for-ai-a2df70a68d2c)
-- <a href="https://medium.com/continual-ai" target="_blank">--- see more stories ---</a>
-
-<a name="mailinglist"></a>
-<h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
-
-**ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing list. Subscribe and follow the instructions to send emails to all the subscribers!
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -80,4 +63,21 @@ Recent stories:
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<a name="medium"></a>
+<h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
+
+The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains blog posts on the topic of Continual Learning. The publication is open to both ContinualAI members and outsiders. If you want to share your personal thoughts on Continual Learning, please consider this venue and send us an email at [media@continualai.org]()!
+
+Recent stories:
+
+- [Task Label and Continual learning, what is going on?](https://medium.com/continual-ai/task-label-and-continual-learning-what-is-going-on-8f655d7e506)
+- [Continual Learning for Production Systems](https://medium.com/continual-ai/continual-learning-for-production-systems-304cc9f60603)
+- [ContinualAI: a Non-Profit Research Organization on Continual Learning for AI](https://medium.com/continual-ai/continualai-a-non-profit-research-organization-on-continual-learning-for-ai-a2df70a68d2c)
+- <a href="https://medium.com/continual-ai" target="_blank">--- see more stories ---</a>
+
+<a name="mailinglist"></a>
+<h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
+
+**ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing list. Subscribe and follow the instructions to send emails to all the subscribers!
 
