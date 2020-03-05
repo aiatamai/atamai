@@ -9,9 +9,9 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#news">1. News & Events</a><br>
-		<a href="#medium">2. Medium Publication</a><br>
-		<a href="#mailinglist">3. Mailing List</a><br>
-		<a href="#newsletter">4. Monthly Newsletter</a><br><br>
+		<a href="#newsletter">2. Monthly Newsletter</a><br>
+		<a href="#medium">3. Medium Publication</a><br>
+		<a href="#mailinglist">4. Mailing List</a><br>
 	</p>
 </div>
 
@@ -30,6 +30,13 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 - **[ Aug 11, 2018 ]** It's official! There will be a [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
 
+<a name="newsletter"></a>
+<h3 id="newsletter" style="margin-bottom: 30px;">Newsletter</h3>
+
+The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
+
+- <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
+
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
 
@@ -46,11 +53,6 @@ Recent stories:
 <h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
 
 **ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing list. Subscribe and follow the instructions to send emails to all the subscribers!
-
-<a name="newsletter"></a>
-<h3 id="newsletter" style="margin-bottom: 30px;">Newsletter</h3>
-
-The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
