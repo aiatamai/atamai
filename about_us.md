@@ -140,14 +140,17 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
 -->
 
 <a href="#map"></a>
-<h3 style="margin-bottom:30px;" id="docs">Worldwide Effort</h3>
+<h3 style="margin-bottom:30px;" id="docs">Members</h3>
 
-ContinualAI is a worldwide effort with members spanning 7 continents in 18 different timezones from top-notch research institutions and companies. Here are our first 300 members:  
+ContinualAI is a worldwide effort with members spanning 7 continents in 19 different timezones from top-notch research institutions and companies. Here are our first 300 members and some of their affiliations:  
 <div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/CAI_mapv2.png'/></div>
 
+<div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/members_institutions.png'/></div>
 
-<a href="#docs"></a>
+
+
 <h3 style="margin-bottom:30px;" id="docs">Documents</h3>
+<a href="#docs"></a>
 
 In this section you can find the official public documents of the organization:
 
