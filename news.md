@@ -10,8 +10,9 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#news">1. News & Events</a><br>
 		<a href="#newsletter">2. Monthly Newsletter</a><br>
-		<a href="#medium">3. Medium Publication</a><br>
-		<a href="#mailinglist">4. Mailing List</a><br>
+		<a href="#meetup">3. Monthly Online Meetups</a><br>
+		<a href="#medium">4. Medium Publication</a><br>
+		<a href="#mailinglist">5. Mailing List</a><br>
 	</p>
 </div>
 
@@ -63,6 +64,14 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<a name="meetup"></a>
+<h3 id="meetup" style="margin-bottom: 30px;">Online Meetups</h3>
+
+The *ContinualAI Online Meetups* are 90 minutes discussions about a particular Continual Learning topic. Each month a new topic is chosen and up to 4 experienced speakers are invited to trigger the discussion with a 15 minutes talk each.
+
+- <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
+- <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
 
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
