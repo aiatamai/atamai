@@ -11,8 +11,9 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 		<a href="#news">1. News & Events</a><br>
 		<a href="#newsletter">2. Monthly Newsletter</a><br>
 		<a href="#meetup">3. Monthly Online Meetups</a><br>
-		<a href="#medium">4. Medium Publication</a><br>
-		<a href="#mailinglist">5. Mailing List</a><br>
+		<a href="#rg">4. Weekly Reading Group</a><br>
+		<a href="#medium">5. Medium Publication</a><br>
+		<a href="#mailinglist">6. Mailing List</a><br>
 	</p>
 </div>
 
@@ -37,6 +38,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
 - <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
+- [March 2020](https://mailchi.mp/3be16987d196/continualai-newsletter-feb-4000921?e=9eb799a20d)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -72,6 +74,11 @@ The *ContinualAI Online Meetups* are 90 minutes discussions about a particular C
 
 - <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
 - <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
+
+<a name="rg"></a>
+<h3 id="rg" style="margin-bottom: 30px;">Reading Group</h3>
+
+The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minutes discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain his work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
