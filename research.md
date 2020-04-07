@@ -25,7 +25,7 @@ Our mission is to advance continual learning research by trying to answer the fo
 - _What are the key principles and mechanisms governing learning and memory in the brain?_
 - _How do we model artificial CL systems that better capture the flexibility, robustness, and scalability exhibited by the brain?_
 - _How do we leverage current CL systems to synergically work on embodied agents and robots that interact with the environment?_
-- _How can we use CL systems and robots to advance AI responsibly and ethically?_
+- _How can we develop, advance, and deploy CL systems responsibly and ethically?_
 
 To answer these questions, we are building a growing set of _computational principles_ and _algorithms_ inspired by key findings in computer science, neuroscience, cognitive science, psychology, and robotics. To foster the interdisciplinary nature of our research approach, we are collaborating with a number of extraordinary researchers and experts in the fields.
 
