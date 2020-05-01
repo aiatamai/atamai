@@ -41,7 +41,7 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  <a name="Advisors"></a>
 <h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
 
-<div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/contai-advisors.png'/></div>
+<div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:90%" src ='/{{ site.baseurl }}images/contai-advisors.png'/></div>
 
  - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Research Scientist @ Google AI
  - [Eugenio Culurciello](https://e-lab.github.io/html/contact-eugenio-culurciello.html) &bull; Professor @ Purdue University
@@ -49,6 +49,7 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  - [Razvan Pascanu](https://sites.google.com/view/razp) &bull; Research Scientist @ Google DeepMind
  - [Massimiliano Versace](http://maxversace.com/) &bull; CEO @ Neurala
  - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
+ - [Itamar Arel](https://www.linkedin.com/in/itamar-arel-061b08/) &bull; VP of McD Technology Labs
 
 <!--
 <a name="top-contributors"></a>

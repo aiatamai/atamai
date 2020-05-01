@@ -12,8 +12,9 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 		<a href="#newsletter">2. Monthly Newsletter</a><br>
 		<a href="#meetup">3. Monthly Online Meetups</a><br>
 		<a href="#rg">4. Weekly Reading Group</a><br>
-		<a href="#medium">5. Medium Publication</a><br>
-		<a href="#mailinglist">6. Mailing List</a><br>
+		<a href="#coffee">5. Virtual Coffe Program</a><br>
+		<a href="#medium">6. Medium Publication</a><br>
+		<a href="#mailinglist">7. Mailing List</a><br>
 	</p>
 </div>
 
@@ -39,6 +40,7 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 
 - <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
 - [March 2020](https://mailchi.mp/3be16987d196/continualai-newsletter-feb-4000921?e=9eb799a20d)
+- [April 2020](http://eepurl.com/g0-UG1)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -74,11 +76,19 @@ The *ContinualAI Online Meetups* are 90 minutes discussions about a particular C
 
 - <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
 - <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
+- <a href="https://www.youtube.com/watch?v=GteGII2e7ro" target="_blank">[April 2020] "Real-World Applications of Continual Learning"</a>
 
 <a name="rg"></a>
 <h3 id="rg" style="margin-bottom: 30px;">Reading Group</h3>
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minutes discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain his work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
+
+<a name="coffee"></a>
+<h3 id="coffee" style="margin-bottom: 30px;">Virtual Coffe Program</h3>
+
+As we surpassed the ContinualAI 800+ members, we thought it would be nice to know each other a bit better! So we are excited to launch the ContinualAI Virtual-Coffee Program! 
+
+How does it work? You enter the [#virtual-coffee channel on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU), every two weeks a bot will randomly pair you with another continual learner with whom you can make a 1-1 online meeting to grab a virtual coffee together. We hope this will help you create valuable connections to strengthen this amazing field and work better together!
 
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom: 30px;">Medium Publication</h3>
