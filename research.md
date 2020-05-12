@@ -11,8 +11,8 @@ layout: page
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#mission">1. Mission</a><br>
 		<a href="#pub">3. Publications</a><br>
-		<a href="#datasets">4. Datasets</a>
-		<a href="#people">2. People</a><br>
+		<a href="#datasets">4. Datasets</a><br>
+		<a href="#people">2. People</a>
 	</p>
 </div>
 
@@ -62,13 +62,13 @@ Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forge
 
 Here we list the datasets released by the lab and its members:
 
-- [CORe50](https://vlomonaco.github.io/core50/): A new Dataset and Benchmark for Continual Learning and Object Recognition, Detection, Segmentation.
+[CORe50](https://vlomonaco.github.io/core50/): A new Dataset and Benchmark for Continual Learning and Object Recognition, Detection, Segmentation.
 
-Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26.
+- Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26.
 
-- [OpenLORIS](https://lifelong-robotic-vision.github.io/dataset/Data_Object-Recognition): A Dataset and Benchmark towards Lifelong Object Recognition.
+[OpenLORIS](https://lifelong-robotic-vision.github.io/dataset/Data_Object-Recognition): A Dataset and Benchmark towards Lifelong Object Recognition.
 
-She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., Guo, Y., Zhang, Y. and Qiao, F., (2020). [OpenLORIS-Object: A Dataset and Benchmark towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487).  International Conference on Robotics and Automation (ICRA'20).
+- She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., Guo, Y., Zhang, Y. and Qiao, F., (2020). [OpenLORIS-Object: A Dataset and Benchmark towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487).  International Conference on Robotics and Automation (ICRA'20).
 
 <hr style="margin-top:20px;margin-bottom:40px;width:100%">
 
@@ -76,8 +76,6 @@ She, Q., Feng, F., Hao, X., Yang, Q., Lan, C., Lomonaco, V., Shi, X., Wang, Z., 
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
 CLAIR is maintained the following people:
-
-<hr style="margin-top:40px;margin-bottom:20px;width:100%">
 
 <div>
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
