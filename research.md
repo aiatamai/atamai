@@ -32,9 +32,7 @@ Join our quest to investigate and answer the fascinating open-challenges of CL f
 <a name="pub"></a>
 <h3 id="papers" style="margin-bottom: 30px;">Publications</h3>
 
-Here is a short list of review papers to start with. For a longer list of CL approaches, please check our [wiki](https://wiki.continualai.org/).
-
-<hr style="margin-top:40px;margin-bottom:20px;width:100%">
+Here is a short list of papers to start with that summarize and discuss the state of the art. For a longer list of CL approaches, empirical studies, and applications, please check our [wiki](https://wiki.continualai.org/).
 
 Lesort, T., Lomonaco, V., Stoian, A., Maltoni, D., Filliat, D., & Díaz-Rodríguez, N. (2020). [Continual learning for robotics: Definition, framework, learning strategies, opportunities and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1566253519307377). Information Fusion Journal, 58:52-68.
 
@@ -60,7 +58,7 @@ Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forge
 <a name="datasets"></a>
 <h3 id="datasets" style="margin-bottom:30px">Datasets</h3>
 
-Here we list the datasets released by the lab and its members:
+Datasets exclusively designed for incremental/continual (robot) learning:
 
 [CORe50](https://vlomonaco.github.io/core50/): A new Dataset and Benchmark for Continual Learning and Object Recognition, Detection, Segmentation.
 
