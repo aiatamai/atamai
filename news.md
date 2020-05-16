@@ -74,15 +74,19 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 
 The *ContinualAI Online Meetups* are 90 minutes discussions about a particular Continual Learning topic. Each month a new topic is chosen and up to 4 experienced speakers are invited to trigger the discussion with a 15 minutes talk each.
 
-- <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
-- <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=GteGII2e7ro" target="_blank">[April 2020] "Real-World Applications of Continual Learning"</a>
+- <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
+- <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
+
+
 
 <a name="rg"></a>
 <h3 id="rg" style="margin-bottom: 30px;">Reading Group</h3>
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minutes discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain his work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
+- [\[May 15th 2020\] “Generative Feature Replay For Class-Incremental Learning”](https://www.youtube.com/watch?v=Lu3D2FN61Wo)
+- [\[May 8th 2020\] "Defining Benchmarks for Continual Few-Shot Learning"](https://www.youtube.com/watch?v=7G9BlvodXRk)
 - [\[May 1st 2020\] "Pseudo Rehearsal Using non Photo-Realistic Images"](https://www.youtube.com/watch?v=SH7IgdiH1FE)
 - <a href="../reading_group" target="_blank">--- see more stories ---</a>
 
