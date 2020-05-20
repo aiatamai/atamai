@@ -30,7 +30,7 @@ Join our quest to investigate and answer the fascinating open-challenges of CL f
 - _How can we develop, advance, and deploy CL systems responsibly and ethically?_
 
 <a name="pub"></a>
-<h3 id="papers" style="margin-bottom: 30px;">Publications</h3>
+<h3 id="papers" style="margin-bottom: 30px;">Introduction to CL</h3>
 
 Here is a short list of papers to start with that summarize and discuss the state of the art. For a longer list of CL approaches, empirical studies, and applications, please check our [wiki](https://wiki.continualai.org/).
 
@@ -73,7 +73,7 @@ Datasets exclusively designed for incremental/continual (robot) learning:
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
-CLAIR is maintained the following people:
+CLAIR is maintained the by following ContinualAI people:
 
 <div>
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
