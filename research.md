@@ -10,7 +10,7 @@ layout: page
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#mission">1. Mission</a><br>
-		<a href="#pub">3. Publications</a><br>
+		<a href="#pub">3. Introduction to CL</a><br>
 		<a href="#datasets">4. Datasets</a><br>
 		<a href="#people">2. People</a>
 	</p>
@@ -73,7 +73,7 @@ Datasets exclusively designed for incremental/continual (robot) learning:
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
-CLAIR is maintained the by following ContinualAI people:
+CLAIR is maintained by the following ContinualAI people:
 
 <div>
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
