@@ -21,6 +21,8 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News & Events</h3>
 
+- **[ May 20, 2020 ]** We are excited to sponsor the [Lifelong Learning for Long-term Human-Robot Interaction (LL4LHR) Workshop](https://sites.google.com/view/ll4lhri2020/objectives-and-challenges) at RO-MAN'20 in Naples, Italy. Submissions are open!
+
 - **[ Feb 25, 2020 ]** The [Continual Learning Challenge](https://sites.google.com/view/clvision2020/challenge?authuser=0) we are sponsoring within the 1st workshop on *Continual Learning in Computer Vision (CLVISION)* at CVPR 2020 is now open for submissions!
 
 - **[ Nov 21, 2019 ]** Vincenzo Lomonaco will be giving a talk on [Toward Continual Learning on the Edge](https://docs.google.com/presentation/d/1xs8j7pBuJatj7EfbuV3e1lMC1Zgj0hbWNFbDhwME8w4/edit?usp=sharing) at Apple Inc., Cupertino, CA.
@@ -72,7 +74,7 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 <a name="meetup"></a>
 <h3 id="meetup" style="margin-bottom: 30px;">Online Meetups</h3>
 
-The *ContinualAI Online Meetups* are 90 minutes discussions about a particular Continual Learning topic. Each month a new topic is chosen and up to 4 experienced speakers are invited to trigger the discussion with a 15 minutes talk each.
+The *ContinualAI Online Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session.
 
 - <a href="https://www.youtube.com/watch?v=GteGII2e7ro" target="_blank">[April 2020] "Real-World Applications of Continual Learning"</a>
 - <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
@@ -83,7 +85,7 @@ The *ContinualAI Online Meetups* are 90 minutes discussions about a particular C
 <a name="rg"></a>
 <h3 id="rg" style="margin-bottom: 30px;">Reading Group</h3>
 
-The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minutes discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain his work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
+The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
 - [\[May 15th 2020\] “Generative Feature Replay For Class-Incremental Learning”](https://www.youtube.com/watch?v=Lu3D2FN61Wo)
 - [\[May 8th 2020\] "Defining Benchmarks for Continual Few-Shot Learning"](https://www.youtube.com/watch?v=7G9BlvodXRk)
