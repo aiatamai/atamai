@@ -40,9 +40,11 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
-- <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
-- [March 2020](https://mailchi.mp/3be16987d196/continualai-newsletter-feb-4000921?e=9eb799a20d)
+- [May 2020](https://mailchi.mp/0e78bb737ffe/continualai-newsletter-4058865?e=9eb799a20d)
 - [April 2020](http://eepurl.com/g0-UG1)
+- [March 2020](https://mailchi.mp/3be16987d196/continualai-newsletter-feb-4000921?e=9eb799a20d)
+- <a href="https://mailchi.mp/aef8eecf498f/continualai-newsletter-feb-2020" target="_blank">February 2020</a>
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -76,6 +78,7 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 
 The *ContinualAI Online Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session.
 
+- <a href="https://www.youtube.com/watch?v=Qo2JKIDZz6w" target="_blank">[May 2020] "Continual Learning with Sequential Streaming Data"</a>
 - <a href="https://www.youtube.com/watch?v=GteGII2e7ro" target="_blank">[April 2020] "Real-World Applications of Continual Learning"</a>
 - <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
@@ -87,10 +90,13 @@ The *ContinualAI Online Meetups* are 90 minute discussions about a particular Co
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
+
+- [\[May 22th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)
+- [\[May 22th 2020\] “Small-Task Incremental Learning”](https://www.youtube.com/watch?v=9xm4P4Kss54)
 - [\[May 15th 2020\] “Generative Feature Replay For Class-Incremental Learning”](https://www.youtube.com/watch?v=Lu3D2FN61Wo)
 - [\[May 8th 2020\] "Defining Benchmarks for Continual Few-Shot Learning"](https://www.youtube.com/watch?v=7G9BlvodXRk)
 - [\[May 1st 2020\] "Pseudo Rehearsal Using non Photo-Realistic Images"](https://www.youtube.com/watch?v=SH7IgdiH1FE)
-- <a href="../reading_group" target="_blank">--- see more stories ---</a>
+- <a href="../reading_group" target="_blank">--- see more sessions ---</a>
 
 
 <a name="coffee"></a>
