@@ -4,15 +4,14 @@ layout: page
 
 <div style="text-align:center; margin-bottom:20px; margin-top:-40px"><img style="width:300px" src ='/{{ site.baseurl }}images/continualai_research_logo.png'/></div>
 
-**ContinualAI Research (CLAIR)** is a collaborative laboratory with the goal to foster the advance of Continual Learning (CL) technologies for AI.
+**ContinualAI Research (CLAIR)** is a collaborative research team and observatory within *ContinualAI* with the goal of supporting the producion, organization and dissemination of original research on CL and related topics.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#mission">1. Mission</a><br>
-		<a href="#pub">3. Introduction to CL</a><br>
-		<a href="#datasets">4. Datasets</a><br>
-		<a href="#people">2. People</a>
+		<a href="#projects">2. Projects</a><br>
+		<a href="#people">3. People</a>
 	</p>
 </div>
 
@@ -20,15 +19,27 @@ layout: page
 <h3 id="mission" style="margin-bottom:30px">Mission</h3>
 
 <br>
-Our mission is to support emerging and consolidated researchers and scientists to produce and disseminate original CL research through the organization of academic events and workshops, online meetups and reading groups, and blogpost publications.
-
-Join our quest to investigate and answer the fascinating open-challenges of CL for AI:
+**ContinualAI Research** works mostly at a meta research level. Its core mission is to support the producion, organization and dissemination of original research on CL with **technical research**, **open source projects** and **tools** that can make the life of a CL researcher easier. In particular, we would like to talke and propose practical solutions to the following questions among others:
 	
-- _What are the key principles and mechanisms governing lifelong learning in the brain?_
-- _How do we model artificial CL approaches that better capture the flexibility, robustness, and scalability exhibited by biological systems?_
-- _How do we leverage current machine learning models to synergically work on embodied agents and robots that interact with the environment?_
-- _How can we develop, advance, and deploy CL systems responsibly and ethically?_
+- _How can we help young researchers and enthustiasts in this area learn faster and be better supported by the community?_
+- _How can we organize research in continual learning to make it easier to anyone find the right piece of information?_
+- _How can we help continual learning researchers share more resources (insights, code and knowledge) and collaborate more together?_
+- _How can make continual learning research more accessible to anyone?_
 
+
+<a name="projecs"></a>
+<h3 id="projects" style="margin-bottom:30px">Projects</h3>
+
+At the moment CLAIR is maintaining the following collaborative projects:
+
+- [ContinualAI Wiki](https://github.com/ContinualAI/wiki)
+- [ContinualAI Forum](https://continualai.discourse.group/)
+- [ContinualAI Colab](https://github.com/ContinualAI/colab)
+- [ContinualAI Publication](https://medium.com/continual-ai)
+
+We are always looking for new CLAIR members! Write us a message [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU) if you want to join us!
+
+<!--
 <a name="pub"></a>
 <h3 id="papers" style="margin-bottom: 30px;">Introduction to CL</h3>
 
@@ -43,6 +54,7 @@ Kemker, R., McClure, M., Abitino, A., Hayes, T.L., Kanan, C. (2018). [Measuring 
 Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forget, there is more than forgetting: new metrics for Continual Learning](https://arxiv.org/abs/1810.13166). Continual Learning Workshop at NeurIPS, Montreal, Canada.
 
 <hr style="margin-top:20px;margin-bottom:20px;width:100%">
+-->
 
 <!-- <hr style="margin-top:30px;margin-bottom:20px;width:100%">
 <div>
@@ -55,6 +67,7 @@ Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forge
 </div>
 <hr style="margin-top:30px;margin-bottom:20px;width:100%"> -->
 
+<!--
 <a name="datasets"></a>
 <h3 id="datasets" style="margin-bottom:30px">Datasets</h3>
 
@@ -70,6 +83,8 @@ Datasets exclusively designed for incremental/continual (robot) learning:
 
 <hr style="margin-top:20px;margin-bottom:40px;width:100%">
 
+-->
+
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
@@ -79,7 +94,7 @@ CLAIR is maintained by the following ContinualAI people:
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
 	<p>
 		<strong><a href="https://www.vincenzolomonaco.com/">Vincenzo Lomonaco</a></strong><br>
-		Co-Director and Chief Scientist<br>
+		Director of Research & Chief Scientist<br>
 		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">vincenzo.lomonaco@continualai.org</a><br>
 	</p>
@@ -89,7 +104,7 @@ CLAIR is maintained by the following ContinualAI people:
 	<img src="/{{ site.baseurl }}images/parisi.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
 	<p>
 		<strong><a href="https://sites.google.com/view/giparisi/home">German I. Parisi</a></strong><br>
-		Co-Director and Chief Scientist<br>
+		Research Scientist<br>
 		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">german.parisi@continualai.org</a><br>
 	</p>
