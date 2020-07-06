@@ -4,7 +4,7 @@ layout: page
 
 <div style="text-align:center; margin-bottom:20px; margin-top:-40px"><img style="width:300px" src ='/{{ site.baseurl }}images/continualai_research_logo.png'/></div>
 
-**ContinualAI Research (CLAIR)** is a collaborative research team and observatory within *ContinualAI* with the goal of supporting the producion, organization and dissemination of original research on CL and related topics.
+**ContinualAI Research (CLAIR)** is a collaborative research team and observatory within *ContinualAI* with the goal of supporting the production, organization and dissemination of original research on CL and related topics.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -88,7 +88,7 @@ Datasets exclusively designed for incremental/continual (robot) learning:
 <a name="people"></a>
 <h3 id="people" style="margin-bottom:30px">People</h3>
 
-CLAIR is maintained by the following ContinualAI people:
+CLAIR is maintained by the following ContinualAI scientists:
 
 <div>
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
