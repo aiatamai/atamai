@@ -50,6 +50,7 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  - [Massimiliano Versace](http://maxversace.com/) &bull; CEO @ Neurala
  - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
  - [Itamar Arel](https://www.linkedin.com/in/itamar-arel-061b08/) &bull; VP of McD Technology Labs
+ - [Irina Rish](https://mila.quebec/en/person/irina-rish/) &bull; Associate Professor at University of Montreal, core member of MILA
 
 <!--
 <a name="top-contributors"></a>
