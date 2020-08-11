@@ -7,7 +7,10 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 
 Here is the list of the previous RG sessions:
 
-
+- [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)
+- [\[July 16th 2020\] "Supermasks in Superposition"](https://www.youtube.com/watch?v=TJEzwVvypOI)
+- [\[July 10th 2020\] "Networks naturally learn to learn and forget to forget"](https://www.youtube.com/watch?v=nmCiDeh-lKY)
+- [\[July 3rd 2020\] "Modeling the Background for Incremental Learning in Semantic Segmentation"](https://www.youtube.com/watch?v=vjyEiMYth6Y)
 - [\[June 19th 2020\] “Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations”](https://www.youtube.com/watch?v=EWNyqWe6t10&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=8)
 - [\[June 12th 2020\] “Learning to Recognize Code-switched Speech Without Forgetting”](https://www.youtube.com/watch?v=-gAYJvR-Hu0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=7)
 - [\[June 6th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)

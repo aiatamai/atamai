@@ -40,6 +40,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
+- [July 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=6abd73a8b0)
 - [June 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=88b2673845)
 - [May 2020](https://mailchi.mp/0e78bb737ffe/continualai-newsletter-4058865?e=9eb799a20d)
 - [April 2020](http://eepurl.com/g0-UG1)
@@ -93,6 +94,10 @@ The *ContinualAI Online Meetups* are 90 minute discussions about a particular Co
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
 
+- [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)
+- [\[July 16th 2020\] "Supermasks in Superposition"](https://www.youtube.com/watch?v=TJEzwVvypOI)
+- [\[July 10th 2020\] "Networks naturally learn to learn and forget to forget"](https://www.youtube.com/watch?v=nmCiDeh-lKY)
+- [\[July 3rd 2020\] "Modeling the Background for Incremental Learning in Semantic Segmentation"](https://www.youtube.com/watch?v=vjyEiMYth6Y)
 - [\[June 19th 2020\] “Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations”](https://www.youtube.com/watch?v=EWNyqWe6t10&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=8)
 - [\[June 12th 2020\] “Learning to Recognize Code-switched Speech Without Forgetting”](https://www.youtube.com/watch?v=-gAYJvR-Hu0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=7)
 - [\[June 5th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)
