@@ -7,6 +7,8 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 
 Here is the list of the previous RG sessions:
 
+- [\[Sptember 11th 2020\] "GDumb: A Simple Approach that Questions Our Progress in Continual Learning"](https://youtu.be/fUW_UxCZLDA)
+- [\[Sptember 4th 2020\] "Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning"](https://www.youtube.com/watch?v=AHGiF21WZbw)
 - [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)
 - [\[July 16th 2020\] "Supermasks in Superposition"](https://www.youtube.com/watch?v=TJEzwVvypOI)
 - [\[July 10th 2020\] "Networks naturally learn to learn and forget to forget"](https://www.youtube.com/watch?v=nmCiDeh-lKY)

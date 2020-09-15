@@ -10,7 +10,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#news">1. News & Events</a><br>
 		<a href="#newsletter">2. Monthly Newsletter</a><br>
-		<a href="#meetup">3. Monthly Online Meetups</a><br>
+		<a href="#meetup">3. Monthly Meetups</a><br>
 		<a href="#rg">4. Weekly Reading Group</a><br>
 		<a href="#coffee">5. Virtual Coffe Program</a><br>
 		<a href="#medium">6. Medium Publication</a><br>
@@ -40,6 +40,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
+- [August 2020](https://mailchi.mp/de525bb51930/continualai-newsletter-4130885?e=9eb799a20d)
 - [July 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=6abd73a8b0)
 - [June 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=88b2673845)
 - [May 2020](https://mailchi.mp/0e78bb737ffe/continualai-newsletter-4058865?e=9eb799a20d)
@@ -76,9 +77,13 @@ The *ContinualAI Newsletter* will keep you updated on events & activities of the
 <!--End mc_embed_signup-->
 
 <a name="meetup"></a>
-<h3 id="meetup" style="margin-bottom: 30px;">Online Meetups</h3>
+<h3 id="meetup" style="margin-bottom: 30px;">Meetups</h3>
 
-The *ContinualAI Online Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session.
+The *ContinualAI Meetups* are online, fun and informal meetups about a particolar continual learning topic. At the moment we try to alternate two possible types of meetups: *"Research"* and *"Collaborative Projects"*.
+
+<h5>Research Meetups</h5>
+
+*Research Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session:
 
 - <a href="https://www.youtube.com/watch?v=69uajJwFyzM" target="_blank">[June 2020] "Continual Learning: in the Cloud, at the Edge or Both?"</a>
 - <a href="https://www.youtube.com/watch?v=Qo2JKIDZz6w" target="_blank">[May 2020] "Continual Learning with Sequential Streaming Data"</a>
@@ -86,6 +91,11 @@ The *ContinualAI Online Meetups* are 90 minute discussions about a particular Co
 - <a href="https://youtu.be/LPYBy4VHRuk" target="_blank">[March 2020] "Neuroscience-Inspired Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=TeYcCuMQ-B0" target="_blank">[February 2020] "Generative Models for Continual Learning"</a>
 
+<h5>Collaborative Projects Meetups</h5>
+
+*Collaborative Projects Meetups* are 60 minutes discussions about a particular ContinualAI project. The goal of this meetup is to present the advancements on each collaborative, open-source project and decide colletively its future development:
+
+- <a href="" target="_blank">[September 2020] "Continual Wiki v1.0"</a>
 
 
 <a name="rg"></a>
@@ -93,7 +103,8 @@ The *ContinualAI Online Meetups* are 90 minute discussions about a particular Co
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
-
+- [\[Sptember 11th 2020\] "GDumb: A Simple Approach that Questions Our Progress in Continual Learning"](https://youtu.be/fUW_UxCZLDA)
+- [\[Sptember 4th 2020\] "Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning"](https://www.youtube.com/watch?v=AHGiF21WZbw)
 - [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)
 - [\[July 16th 2020\] "Supermasks in Superposition"](https://www.youtube.com/watch?v=TJEzwVvypOI)
 - [\[July 10th 2020\] "Networks naturally learn to learn and forget to forget"](https://www.youtube.com/watch?v=nmCiDeh-lKY)
@@ -111,7 +122,7 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 <a name="coffee"></a>
 <h3 id="coffee" style="margin-bottom: 30px;">Virtual Coffe Program</h3>
 
-As we surpassed the ContinualAI 800+ members, we thought it would be nice to know each other a bit better! So we are excited to launch the ContinualAI Virtual-Coffee Program! 
+As we surpassed the ContinualAI 1000+ members, we thought it would be nice to know each other a bit better! So we are excited to launch the ContinualAI Virtual-Coffee Program! 
 
 How does it work? You enter the [#virtual-coffee channel on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU), every two weeks a bot will randomly pair you with another continual learner with whom you can make a 1-1 online meeting to grab a virtual coffee together. We hope this will help you create valuable connections to strengthen this amazing field and work better together!
 
@@ -122,6 +133,7 @@ The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains b
 
 Recent stories:
 
+- [Continuum: A Data Loader for Continual Learning](https://medium.com/continual-ai/continuum-a-data-loader-for-continual-learning-bb45ce9ef0ef)
 - [Task Label and Continual learning, what is going on?](https://medium.com/continual-ai/task-label-and-continual-learning-what-is-going-on-8f655d7e506)
 - [Continual Learning for Production Systems](https://medium.com/continual-ai/continual-learning-for-production-systems-304cc9f60603)
 - [ContinualAI: a Non-Profit Research Organization on Continual Learning for AI](https://medium.com/continual-ai/continualai-a-non-profit-research-organization-on-continual-learning-for-ai-a2df70a68d2c)

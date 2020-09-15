@@ -94,9 +94,19 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<img src="/{{ site.baseurl }}images/vincenzo.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
 	<p>
 		<strong><a href="https://www.vincenzolomonaco.com/">Vincenzo Lomonaco</a></strong><br>
-		Director of Research & Chief Scientist<br>
+		Director of Research<br>
 		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">vincenzo.lomonaco@continualai.org</a><br>
+	</p>
+</div>
+
+<div>
+	<img src="/{{ site.baseurl }}images/andrea.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
+	<p>
+		<strong><a href="https://andreacossu.github.io/">Andrea Cossu</a></strong><br>
+		Chief Scientist<br>
+		<em>Continual Learing, Sequence Learning</em><br>
+		 <a href="mailto:vincenzo.lomonaco@continualai.org">andrea.cossu@continualai.org</a><br>
 	</p>
 </div>
 
