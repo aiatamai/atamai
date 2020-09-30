@@ -1,4 +1,4 @@
-# Continual AI - Website-Wiki
+# Continual AI - Website
 <img src="https://continualai.herokuapp.com/badge.svg">
 
 Continual AI is the first hub on Continual / Lifelong Deep Learning in AI! :-)
@@ -43,5 +43,3 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 8. Now you can start making changes on the see the result in your browser at  http://localhost:4000/
 
 9. Make a Pull Request (with only the .md or original .html files)! :D
-
-Thank you.
