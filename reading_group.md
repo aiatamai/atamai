@@ -7,6 +7,10 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 
 Here is the list of the previous RG sessions:
 
+- [\[October 16th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[October 9th 2020\] “Continual Learning from the Perspective of Compression”](https://www.youtube.com/watch?v=_LGU5MBjJAQ)
+- [\[October 2nd 2020\] "Bookworm Continual Learning: Beyond Zero-Shot Learning and Continual Learning"](https://www.youtube.com/watch?v=KeeX445siGg)
+- [\[Sptember 25th 2020\] “A Wholistic View of Continual Learning with Deep Neural Networks”](https://www.youtube.com/watch?v=Dwlr7IsO5SI)
 - [\[Sptember 11th 2020\] "GDumb: A Simple Approach that Questions Our Progress in Continual Learning"](https://youtu.be/fUW_UxCZLDA)
 - [\[Sptember 4th 2020\] "Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning"](https://www.youtube.com/watch?v=AHGiF21WZbw)
 - [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)

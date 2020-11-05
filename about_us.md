@@ -12,11 +12,12 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#board">1. Board Members</a><br>
 		<a href="#advisors">2. Advisors</a><br>
+		<a href="#inclusion">3. Inclusion & Diversity Committee</a><br>
 		<!--<a href="#top_contributors">3. Top Contributors</a><br>-->
 		<!--<a href="#members">3. Members</a><br>-->
-		<a href="#map"> 3. Map </a><br>
-		<a href="#docs"> 4. Documents </a><br>
-		<a href="#contacts">5. Contacts and Links</a>
+		<a href="#map"> 4. Map </a><br>
+		<a href="#docs"> 5. Documents </a><br>
+		<a href="#contacts">6. Contacts and Links</a>
 	</p>
 </div>
 
@@ -51,6 +52,17 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
  - [Itamar Arel](https://www.linkedin.com/in/itamar-arel-061b08/) &bull; VP of McD Technology Labs
  - [Irina Rish](https://mila.quebec/en/person/irina-rish/) &bull; Associate Professor @ MILA
+
+ <a name="inclusion"></a>
+<h3 id="advisors" style="margin-bottom:30px">Inclusion & Diversity Committee</h3>
+
+ <div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:90%" src ='/{{ site.baseurl }}images/diversity_committee.png'/></div>
+
+ - [Ghada Sokar](https://research.tue.nl/en/persons/ghada-sokar) &bull; PhD Student @ Eindhoven University of Technology
+ - [Ayşin Sancı](https://www.linkedin.com/in/aysin-sanci/) &bull; Software Developer @ ALTINAY R&D
+ - [Alec Diallo](http://www.inf.ed.ac.uk/people/staff/Aboubacar_Diallo.html) &bull; PhD Student @ University of Edimburgh
+- [Akshita Gupta](https://scholar.google.com/citations?user=G01YeI0AAAAJ&hl=en) &bull; Research Engineer @ Inception Institute of Artificial Intelligence
+- [Xu Ji](https://scholar.google.com/citations?user=G01YeI0AAAAJ&hl=en) &bull; PhD Student @ Oxford University
 
 <!--
 <a name="top-contributors"></a>

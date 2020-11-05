@@ -8,15 +8,20 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
-		<a href="#news">1. News & Events</a><br>
-		<a href="#newsletter">2. Monthly Newsletter</a><br>
-		<a href="#meetup">3. Monthly Meetups</a><br>
-		<a href="#rg">4. Weekly Reading Group</a><br>
-		<a href="#coffee">5. Virtual Coffe Program</a><br>
-		<a href="#medium">6. Medium Publication</a><br>
-		<a href="#mailinglist">7. Mailing List</a><br>
+		<a href="#mailinglist">1. Mailing List</a><br>
+		<a href="#news">2. News & Events</a><br>
+		<a href="#newsletter">3. Monthly Newsletter</a><br>
+		<a href="#meetup">4. Monthly Meetups</a><br>
+		<a href="#rg">5. Weekly Reading Group</a><br>
+		<a href="#coffee">6. Virtual Coffe Program</a><br>
+		<a href="#medium">7. Medium Publication</a><br>
 	</p>
 </div>
+
+<a name="mailinglist"></a>
+<h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
+
+**ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing list. This is a mailing-list open to anyone interested in continual learning. <a href="https://groups.google.com/forum/#!forum/continualai">Subscribe</a> and follow the instructions to send emails to all the subscribers!
 
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News & Events</h3>
@@ -40,6 +45,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
+- [October 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=04f08ebd15)
 - [August 2020](https://mailchi.mp/de525bb51930/continualai-newsletter-4130885?e=9eb799a20d)
 - [July 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=6abd73a8b0)
 - [June 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=88b2673845)
@@ -85,6 +91,7 @@ The *ContinualAI Meetups* are online, fun and informal meetups about a particola
 
 *Research Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session:
 
+- <a href="https://www.youtube.com/watch?v=4LojchZD0zo" target="_blank">[October 2020] "Generalization and Robustness in Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=69uajJwFyzM" target="_blank">[June 2020] "Continual Learning: in the Cloud, at the Edge or Both?"</a>
 - <a href="https://www.youtube.com/watch?v=Qo2JKIDZz6w" target="_blank">[May 2020] "Continual Learning with Sequential Streaming Data"</a>
 - <a href="https://www.youtube.com/watch?v=GteGII2e7ro" target="_blank">[April 2020] "Real-World Applications of Continual Learning"</a>
@@ -103,6 +110,10 @@ The *ContinualAI Meetups* are online, fun and informal meetups about a particola
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
+- [\[October 16th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[October 9th 2020\] “Continual Learning from the Perspective of Compression”](https://www.youtube.com/watch?v=_LGU5MBjJAQ)
+- [\[October 2nd 2020\] "Bookworm Continual Learning: Beyond Zero-Shot Learning and Continual Learning"](https://www.youtube.com/watch?v=KeeX445siGg)
+- [\[Sptember 25th 2020\] “A Wholistic View of Continual Learning with Deep Neural Networks”](https://www.youtube.com/watch?v=Dwlr7IsO5SI)
 - [\[Sptember 11th 2020\] "GDumb: A Simple Approach that Questions Our Progress in Continual Learning"](https://youtu.be/fUW_UxCZLDA)
 - [\[Sptember 4th 2020\] "Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning"](https://www.youtube.com/watch?v=AHGiF21WZbw)
 - [\[July 24th 2020\] "Efficient Continual Learning in Neural Networks with Embedding Regularization"](https://www.youtube.com/watch?v=MJC4XrmIIYI)
@@ -112,10 +123,6 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 - [\[June 19th 2020\] “Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations”](https://www.youtube.com/watch?v=EWNyqWe6t10&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=8)
 - [\[June 12th 2020\] “Learning to Recognize Code-switched Speech Without Forgetting”](https://www.youtube.com/watch?v=-gAYJvR-Hu0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=7)
 - [\[June 5th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)
-- [\[May 22th 2020\] “Small-Task Incremental Learning”](https://www.youtube.com/watch?v=9xm4P4Kss54)
-- [\[May 15th 2020\] “Generative Feature Replay For Class-Incremental Learning”](https://www.youtube.com/watch?v=Lu3D2FN61Wo)
-- [\[May 8th 2020\] "Defining Benchmarks for Continual Few-Shot Learning"](https://www.youtube.com/watch?v=7G9BlvodXRk)
-- [\[May 1st 2020\] "Pseudo Rehearsal Using non Photo-Realistic Images"](https://www.youtube.com/watch?v=SH7IgdiH1FE)
 - <a href="../reading_group" target="_blank">--- see more sessions ---</a>
 
 
@@ -138,9 +145,4 @@ Recent stories:
 - [Continual Learning for Production Systems](https://medium.com/continual-ai/continual-learning-for-production-systems-304cc9f60603)
 - [ContinualAI: a Non-Profit Research Organization on Continual Learning for AI](https://medium.com/continual-ai/continualai-a-non-profit-research-organization-on-continual-learning-for-ai-a2df70a68d2c)
 - <a href="https://medium.com/continual-ai" target="_blank">--- see more stories ---</a>
-
-<a name="mailinglist"></a>
-<h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
-
-**ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing list. Subscribe and follow the instructions to send emails to all the subscribers!
 
