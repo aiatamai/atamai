@@ -24,8 +24,7 @@ The consortium of independent research labs called *ContinualAI Units*, in line 
 
 Being part of *ContinualAI Research* network, allows every research lab, not matter its dimension, to collaborate and work better with the rest of the continual learning community, participating to research grants, sharing news and resources, connecting people and ultimately augmenting the impact of its research products.
 
-
-This will, in turn, fortify the entire continual learning community, with a renewed, collaborative and inclusive spirit towards building better AI systems that can learn and think like humans. 
+This will, in turn, fortify the entire continual learning community with a renewed, collaborative and inclusive spirit towards building better AI systems that can learn and think like humans. 
 
 
 <a name="units"></a>
@@ -35,6 +34,7 @@ A *ContinualAI* unit, is a research team (or a part of it) composed by **at leas
 
 - <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Bologna, Italy (PI: Davide Maltoni)</a>
 - <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, Oxford, United Kingdom (PI: Fabio Cuzzolin)</a>
+- <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Pisa, Italy (PI: Davide Bacciu)</a>
 - <a href="https://www.continualai.org/lab" target="_blank">ContinualAI Lab - ContinualAI, Bologna, Italy (PI: Vincenzo Lomonaco)</a>
 - <em>...To be announced shortly!</em>
 
