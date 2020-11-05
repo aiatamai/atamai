@@ -17,7 +17,6 @@ layout: page
 <a name="mission"></a>
 <h3 id="mission" style="margin-bottom:30px">Mission</h3>
 
-<br>
 **ContinualAI Research** is a research network, with the goal of supporting coordination and collaboration among continual learning labs across the world. 
 
 The consortium of independent research labs called *ContinualAI Units*, in line with the *ContinualAI* mission, aims at accelerating the research progress in Continual Learning for AI.
