@@ -33,8 +33,9 @@ A *ContinualAI* unit, is a research team (or a part of it) composed by **at leas
 
 - <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Bologna, Italy (PI: Davide Maltoni)</a>
 - <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, Oxford, United Kingdom (PI: Fabio Cuzzolin)</a>
-- <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Pisa, Italy (PI: Davide Bacciu)</a>
+- <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Pisa, Italy (PI: Alessio Micheli)</a>
 - <a href="https://www.continualai.org/lab" target="_blank">ContinualAI Lab - ContinualAI, Bologna, Italy (PI: Vincenzo Lomonaco)</a>
+- <a href="http://www.uncini.com/" target="_blank">Uncini's group - Sapienza University, Rome, Italy (PI: Aurelio Uncini)</a>
 - <em>...To be announced shortly!</em>
 
 Please contact *vincenzo.lomonaco@continulai.org* for more information or if you want to join the network!
