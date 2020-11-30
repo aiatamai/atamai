@@ -31,6 +31,7 @@ This will, in turn, fortify the entire continual learning community with a renew
 
 A *ContinualAI* unit, is a research team (or a part of it) composed by **at least three people**, working continuously on *continual learning* or related topics. Below we report the list of the actual *ContinualAI Units* composing CLAIR:
 
+- <a href="https://sites.google.com/site/irinarish/" target="_blank">Rish's group, MILA, Canada (PI: Irina Rish)</a>
 - <a href="http://www.cvc.uab.es/lamp/" target="_blank">Learning and Machine Perception Team - Universitat Autònoma de Barcelona, Barcelona, Spain (PI: Joost van de Weijer)</a>
 - <a href="http://klab.cis.rit.edu/" target="_blank">Machine and Neuromorphic Perception Laboratory (a.k.a. kLab) - Rochester Institute of Technology (RIT), New York, United States (PI: Christopher Kanan)</a>
 - <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Bologna, Italy (PI: Davide Maltoni)</a>
