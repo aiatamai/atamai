@@ -7,7 +7,12 @@ The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MI
 
 Here is the list of the previous RG sessions:
 
-- [\[October 16th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[December 4th 2020\] "Continual Learning with Deep Artificial Neurons"](https://www.youtube.com/watch?v=PGKY9zXBu-U)
+- [\[November 20th 2020\] "Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting"](https://www.youtube.com/watch?v=PGKY9zXBu-U)
+- [\[November 13th 2020\] "Continual Learning in Recurrent Neural Networks"](https://www.youtube.com/watch?v=sFNAXF8H0IY)
+- [\[November 6th 2020\] "Optimal Continual Learning has Perfect Memory and is NP-hard"](https://www.youtube.com/watch?v=dchP_LsX7_E)
+- [\[October 23th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[October 16nd 2020\] "Continual Prototype Evolution: Learning Online from Non-Stationary Data Streams"](https://continualai.discourse.group/t/continualai-reading-group-continual-prototype-evolution-learning-online-from-non-stationary-data-streams/165)
 - [\[October 9th 2020\] “Continual Learning from the Perspective of Compression”](https://www.youtube.com/watch?v=_LGU5MBjJAQ)
 - [\[October 2nd 2020\] "Bookworm Continual Learning: Beyond Zero-Shot Learning and Continual Learning"](https://www.youtube.com/watch?v=KeeX445siGg)
 - [\[Sptember 25th 2020\] “A Wholistic View of Continual Learning with Deep Neural Networks”](https://www.youtube.com/watch?v=Dwlr7IsO5SI)
@@ -19,7 +24,7 @@ Here is the list of the previous RG sessions:
 - [\[July 3rd 2020\] "Modeling the Background for Incremental Learning in Semantic Segmentation"](https://www.youtube.com/watch?v=vjyEiMYth6Y)
 - [\[June 19th 2020\] “Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations”](https://www.youtube.com/watch?v=EWNyqWe6t10&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=8)
 - [\[June 12th 2020\] “Learning to Recognize Code-switched Speech Without Forgetting”](https://www.youtube.com/watch?v=-gAYJvR-Hu0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z&index=7)
-- [\[June 6th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)
+- [\[June 5th 2020\] “Explaining How Deep Neural Networks Forget by Deep Visualization”](https://www.youtube.com/watch?v=4cqyKoIPa8Q)
 - [\[May 22th 2020\] “Small-Task Incremental Learning”](https://www.youtube.com/watch?v=9xm4P4Kss54)
 - [\[May 15th 2020\] “Generative Feature Replay For Class-Incremental Learning”](https://www.youtube.com/watch?v=Lu3D2FN61Wo)
 - [\[May 8th 2020\] "Defining Benchmarks for Continual Few-Shot Learning"](https://www.youtube.com/watch?v=7G9BlvodXRk)

@@ -45,6 +45,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
+- [November 2020](http://eepurl.com/hj1_79)
 - [October 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=04f08ebd15)
 - [August 2020](https://mailchi.mp/de525bb51930/continualai-newsletter-4130885?e=9eb799a20d)
 - [July 2020](https://us3.campaign-archive.com/?u=29a139e2e5d0fc1e2ef05c1a9&id=6abd73a8b0)
@@ -91,6 +92,7 @@ The *ContinualAI Meetups* are online, fun and informal meetups about a particola
 
 *Research Meetups* are 90 minute discussions about a particular Continual Learning topic. Each month a new topic is chosen and 4 experienced speakers are invited to trigger the discussion with a 15 minute talk each plus a Q&A session:
 
+- <a href="https://www.youtube.com/watch?v=MXJO9F-ohe8" target="_blank">[November 2020] "Benchmarks and Evaluation for Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=4LojchZD0zo" target="_blank">[October 2020] "Generalization and Robustness in Continual Learning"</a>
 - <a href="https://www.youtube.com/watch?v=69uajJwFyzM" target="_blank">[June 2020] "Continual Learning: in the Cloud, at the Edge or Both?"</a>
 - <a href="https://www.youtube.com/watch?v=Qo2JKIDZz6w" target="_blank">[May 2020] "Continual Learning with Sequential Streaming Data"</a>
@@ -110,7 +112,12 @@ The *ContinualAI Meetups* are online, fun and informal meetups about a particola
 
 The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
 
-- [\[October 16th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[December 4th 2020\] "Continual Learning with Deep Artificial Neurons"](https://www.youtube.com/watch?v=PGKY9zXBu-U)
+- [\[November 20th 2020\] "Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting"](https://www.youtube.com/watch?v=PGKY9zXBu-U)
+- [\[November 13th 2020\] "Continual Learning in Recurrent Neural Networks"](https://www.youtube.com/watch?v=sFNAXF8H0IY)
+- [\[November 6th 2020\] "Optimal Continual Learning has Perfect Memory and is NP-hard"](https://www.youtube.com/watch?v=dchP_LsX7_E)
+- [\[October 23th 2020\] “Memory-Efficient Incremental Learning Through Feature Adaptation”](https://www.youtube.com/watch?v=XvhXTwqPXG0)
+- [\[October 16nd 2020\] "Continual Prototype Evolution: Learning Online from Non-Stationary Data Streams"](https://continualai.discourse.group/t/continualai-reading-group-continual-prototype-evolution-learning-online-from-non-stationary-data-streams/165)
 - [\[October 9th 2020\] “Continual Learning from the Perspective of Compression”](https://www.youtube.com/watch?v=_LGU5MBjJAQ)
 - [\[October 2nd 2020\] "Bookworm Continual Learning: Beyond Zero-Shot Learning and Continual Learning"](https://www.youtube.com/watch?v=KeeX445siGg)
 - [\[Sptember 25th 2020\] “A Wholistic View of Continual Learning with Deep Neural Networks”](https://www.youtube.com/watch?v=Dwlr7IsO5SI)

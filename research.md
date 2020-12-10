@@ -31,14 +31,15 @@ This will, in turn, fortify the entire continual learning community with a renew
 
 A *ContinualAI* unit, is a research team (or a part of it) composed by **at least three people**, working continuously on *continual learning* or related topics. Below we report the list of the actual *ContinualAI Units* composing CLAIR:
 
+- <a href="https://sites.google.com/site/irinarish/" target="_blank">Bing Liu's group, University of Chicago, United States (PI: Bing Liu)</a>
 - <a href="https://sites.google.com/site/irinarish/" target="_blank">Rish's group, MILA, Canada (PI: Irina Rish)</a>
-- <a href="http://www.cvc.uab.es/lamp/" target="_blank">Learning and Machine Perception Team - Universitat Autònoma de Barcelona, Barcelona, Spain (PI: Joost van de Weijer)</a>
-- <a href="http://klab.cis.rit.edu/" target="_blank">Machine and Neuromorphic Perception Laboratory (a.k.a. kLab) - Rochester Institute of Technology (RIT), New York, United States (PI: Christopher Kanan)</a>
-- <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Bologna, Italy (PI: Davide Maltoni)</a>
-- <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, Oxford, United Kingdom (PI: Fabio Cuzzolin)</a>
-- <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Pisa, Italy (PI: Alessio Micheli)</a>
-- <a href="http://www.uncini.com/" target="_blank">Uncini's group - Sapienza University, Rome, Italy (PI: Aurelio Uncini)</a>
-- <a href="https://www.continualai.org/lab" target="_blank">ContinualAI Lab - ContinualAI, Bologna, Italy (PI: Vincenzo Lomonaco)</a>
+- <a href="http://www.cvc.uab.es/lamp/" target="_blank">Learning and Machine Perception Team - Universitat Autònoma de Barcelona, Spain (PI: Joost van de Weijer)</a>
+- <a href="http://klab.cis.rit.edu/" target="_blank">Machine and Neuromorphic Perception Laboratory (a.k.a. kLab) - Rochester Institute of Technology (RIT), United States (PI: Christopher Kanan)</a>
+- <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Italy (PI: Davide Maltoni)</a>
+- <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, United Kingdom (PI: Fabio Cuzzolin)</a>
+- <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Italy (PI: Alessio Micheli)</a>
+- <a href="http://www.uncini.com/" target="_blank">Uncini's group - Sapienza University, Italy (PI: Aurelio Uncini)</a>
+- <a href="https://www.continualai.org/lab" target="_blank">ContinualAI Lab - ContinualAI, Italy (PI: Vincenzo Lomonaco)</a>
 - <em>...To be announced shortly!</em>
 
 Please contact *vincenzo.lomonaco@continulai.org* for more information or if you want to join the network!
