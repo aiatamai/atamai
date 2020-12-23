@@ -36,6 +36,8 @@ A *ContinualAI* unit, is a research team (or a part of it) composed by **at leas
 - <a href="http://www.cvc.uab.es/lamp/" target="_blank">Learning and Machine Perception Team - Universitat Autònoma de Barcelona, Spain (PI: Joost van de Weijer)</a>
 - <a href="http://klab.cis.rit.edu/" target="_blank">Machine and Neuromorphic Perception Laboratory (a.k.a. kLab) - Rochester Institute of Technology (RIT), United States (PI: Christopher Kanan)</a>
 - <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Italy (PI: Davide Maltoni)</a>
+- <a href="https://numenta.com/" target="_blank">Subutai Ahmad's group, Numenta, United States (PI: Subutai Ahmad)</a>
+- <a href="https://kalisteo.cea.fr/index.php/textual-and-visual-semantic/" target="_blank">LASTI Lab, CEA LIST, France (PI: Adrian Popescu)</a>
 - <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, United Kingdom (PI: Fabio Cuzzolin)</a>
 - <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Italy (PI: Alessio Micheli)</a>
 - <a href="http://www.uncini.com/" target="_blank">Uncini's group - Sapienza University, Italy (PI: Aurelio Uncini)</a>
