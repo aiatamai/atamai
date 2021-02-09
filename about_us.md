@@ -52,6 +52,10 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
  - [Itamar Arel](https://www.linkedin.com/in/itamar-arel-061b08/) &bull; VP of McD Technology Labs
  - [Irina Rish](https://mila.quebec/en/person/irina-rish/) &bull; Associate Professor @ MILA
+ - [Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/) &bull; Full Professor @ KU Leuven
+ - [Christopher Kanan](https://chriskanan.com/) &bull; Associate Professor @ Rochester Institute of Technology
+ - [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/) &bull; Senior Researcher @ Computer Vision Center
+ - [Bing Liu](https://www.cs.uic.edu/~liub/) &bull; Distinguished Professor @ University of Illinois at Chicago
 
  <a name="inclusion"></a>
 <h3 id="advisors" style="margin-bottom:30px">Inclusion & Diversity Committee</h3>

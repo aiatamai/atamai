@@ -34,13 +34,16 @@ A *ContinualAI* unit, is a research team (or a part of it) composed by **at leas
 - <a href="https://sites.google.com/site/irinarish/" target="_blank">Bing Liu's group, University of Chicago, United States (PI: Bing Liu)</a>
 - <a href="https://sites.google.com/site/irinarish/" target="_blank">Rish's group, MILA, Canada (PI: Irina Rish)</a>
 - <a href="http://www.cvc.uab.es/lamp/" target="_blank">Learning and Machine Perception Team - Universitat Autònoma de Barcelona, Spain (PI: Joost van de Weijer)</a>
+- <a href="https://homes.esat.kuleuven.be/~tuytelaa/" target="_blank">Tinne Tuytelaars' group, KU Leuven, Belgium (PI: Tinne Tuytelaars)</a>
 - <a href="http://klab.cis.rit.edu/" target="_blank">Machine and Neuromorphic Perception Laboratory (a.k.a. kLab) - Rochester Institute of Technology (RIT), United States (PI: Christopher Kanan)</a>
 - <a href="http://biolab.csr.unibo.it/home.asp" target="_blank">BioLab - University of Bologna, Italy (PI: Davide Maltoni)</a>
 - <a href="https://numenta.com/" target="_blank">Subutai Ahmad's group, Numenta, United States (PI: Subutai Ahmad)</a>
 - <a href="https://kalisteo.cea.fr/index.php/textual-and-visual-semantic/" target="_blank">LASTI Lab, CEA LIST, France (PI: Adrian Popescu)</a>
+- <a href="https://ivado.ca/en/persons/eilif-muller/" target="_blank">Architectures of Biological Learning Lab, MILA, Canada (PI: Eilif Benjamin Muller)</a>
 - <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin" target="_blank">Visual Artificial Intelligence Laboratory - Oxford Brookes, United Kingdom (PI: Fabio Cuzzolin)</a>
 - <a href="http://groups.di.unipi.it/groups/ciml/" target="_blank">Computational Intelligence & Machine Learning Group - University of Pisa, Italy (PI: Alessio Micheli)</a>
 - <a href="http://www.uncini.com/" target="_blank">Uncini's group - Sapienza University, Italy (PI: Aurelio Uncini)</a>
+- <a href="https://scholar.google.com/citations?user=SeGmqkIAAAAJ&hl=en" target="_blank">Eugenio Culurciello's group - Micron Inc, United States (PI: Eugenio Culurciello)</a>
 - <a href="https://www.continualai.org/lab" target="_blank">ContinualAI Lab - ContinualAI, Italy (PI: Vincenzo Lomonaco)</a>
 - <em>...To be announced shortly!</em>
 
